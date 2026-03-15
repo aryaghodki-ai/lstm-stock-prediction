@@ -32,6 +32,6 @@ The trained LSTM model is able to capture the general trend of Apple stock price
 ## How to Run
 1. Clone the repo
 2. Install dependencies: `pip install tensorflow numpy pandas matplotlib`
-3. Run `lstm_stock.py` or open the Jupyter notebook
+3. Run `LSTM_stock_prediction.py` or open the Jupyter notebook
 
 This project was developed as part of the WiDS 5.0 program at IIT Bombay.
